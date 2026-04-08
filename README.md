@@ -1,154 +1,113 @@
 # 👋 Olá! Eu sou o André
 
-🎓 Estudante de Engenharia da Computação  
-💻 Desenvolvedor em formação apaixonado por tecnologia e aprendizado contínuo  
-🐍 Focado principalmente no ecossistema Python, desenvolvimento de sistemas e análise de dados  
+🎓 Estudante de Engenharia da Computação
+💻 Desenvolvedor em formação apaixonado por tecnologia e resolução de problemas
+🐍 Focado principalmente em Python, automação e análise de dados
 
-🚀 Busco constantemente transformar ideias em aplicações úteis, automatizar processos e desenvolver soluções que realmente resolvam problemas.
+🚀 Busco constantemente transformar ideias em aplicações reais, desenvolver ferramentas úteis e evoluir como programador.
 
 ---
 
 # 🧠 Sobre mim
 
-Tenho grande interesse em **desenvolvimento de software, automação e análise de dados**.
+Sou estudante de Engenharia da Computação e tenho grande interesse em **desenvolvimento de software, análise de dados e automação de processos**.
 
-Durante minha jornada desenvolvendo projetos pessoais, acadêmicos e profissionais, já trabalhei com:
+Durante minha jornada já desenvolvi diversos projetos acadêmicos e pessoais envolvendo:
 
-- desenvolvimento de **sistemas CRUD completos**
-- construção de **bancos de dados relacionais**
-- desenvolvimento de **SGBDs e sistemas de gerenciamento de informações**
-- automação de processos utilizando **Python**
-- desenvolvimento de **APIs e aplicações web**
-- tratamento e análise de dados
+* desenvolvimento de **sistemas CRUD completos**
+* construção de **bancos de dados relacionais**
+* desenvolvimento de **sistemas de gerenciamento de dados (SGBD)**
+* automação de processos com Python
+* análise e tratamento de dados
+* desenvolvimento de aplicações desktop e web
 
-Gosto de construir projetos práticos que conectam **programação, lógica e solução de problemas reais**.
+Gosto de aprender construindo projetos práticos que conectam **programação, lógica e solução de problemas reais**.
 
 ---
 
 # 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,c,arduino,html,css,git,github,linux,vscode)](https://skillicons.dev)
 
-- 🐍 Python
-- ☕ Java (POO)
-- SQL
+### 📊 Bibliotecas e Ferramentas para Dados e IA
 
-### 🌐 Desenvolvimento Web
+* **OpenCV** – Processamento e análise de imagens e vídeos
+* **scikit-image** – Algoritmos de processamento de imagens em Python
+* **NumPy** – Base para cálculos numéricos e manipulação de arrays multidimensionais
+* **Pandas** – Estruturas de dados para análise e limpeza de dados
+* **TensorFlow** – Framework para redes neurais e aplicações de inteligência artificial
 
-- HTML (básico)
-- CSS (básico)
-- Django
-- Django REST API
-
-### 🗄️ Banco de Dados
-
-- SQLite
-- Modelagem de banco de dados
-- Desenvolvimento de sistemas CRUD
-- Estruturação de sistemas tipo SGBD
-
-### 📊 Dados e Automação
-
-- Análise e tratamento de dados
-- Automação de processos
-- Manipulação de informações numéricas
-- Scripts para processamento de dados
-
-### 🌐 Web Scraping
-
-- BeautifulSoup
-- Parser HTML
-- Coleta e tratamento de dados da web
-
-### ⚙️ Sistemas e Ferramentas
-
-- Git e GitHub
-- Ambiente virtual Python (venv)
-- Estrutura de diretórios Linux
-- Máquinas Virtuais
 ---
 
 # 🚀 Projetos e Experimentos
 
-Ao longo da minha jornada já desenvolvi diversos projetos práticos, incluindo:
-
 ### 💰 Bot de monitoramento de Bitcoin
-Projeto que realiza coleta e análise de dados de mercado de criptomoedas para monitoramento de preço e comportamento do Bitcoin.
+
+Projeto desenvolvido em Python para coleta e monitoramento de dados de criptomoedas.
 
 ---
 
-### 📊 Sistemas de gerenciamento de dados
-Desenvolvimento de aplicações completas com:
+### 📊 Sistemas CRUD e Gerenciamento de Dados
 
-- CRUD completo
-- integração com banco de dados
-- manipulação e organização de grandes volumes de informação
-- sistemas de consulta e registro de dados
+Desenvolvimento de sistemas completos utilizando:
 
----
-
-### 🤖 Automação de processos
-Criação de scripts para:
-
-- organização de dados
-- tratamento de informações
-- automação de tarefas repetitivas
+* Python
+* banco de dados SQL
+* manipulação e organização de grandes volumes de informação
+* sistemas de cadastro e gerenciamento de dados
 
 ---
 
-# 🧪 Projetos de Engenharia (Faculdade)
+### 🤖 Automação de Processos
+
+Scripts em Python para:
+
+* automação de tarefas repetitivas
+* organização de dados
+* processamento de informações
+
+---
+
+# 🧪 Projetos de Engenharia
 
 ### 🧴 Dispenser automático de molho
-Sistema automatizado utilizando sensores e microcontroladores para liberar quantidades controladas de molho.
 
----
+Sistema automatizado com sensores e microcontroladores para controle de quantidade de molho liberado.
 
 ### 🔊 Detector de ruído anômalo
-Sistema para **detecção de padrões sonoros anormais** com objetivo de prever falhas em equipamentos e auxiliar em **manutenção preditiva**.
 
----
+Projeto para **detecção de padrões sonoros anormais** visando aplicações em **manutenção preditiva**.
 
 ### 🌧️ Bueiro inteligente
+
 Sistema com sensores para:
 
-- monitoramento de volume de água
-- cálculo de nível de enchimento
-- sistema de alerta para moradores em caso de risco de alagamento.
+* monitoramento do volume de água
+* cálculo do nível de enchimento
+* sistema de alerta para moradores em caso de alagamento
 
 ---
 
-# 📚 Atualmente estudando
+# 📊 Estatísticas do GitHub
 
-- Python avançado
-- Desenvolvimento Web com Django
-- Gerenciamento de Dados com SQL
-- Ciência de Dados
-- Inglês
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
 
-
-# 📊 Estatísticas GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
 
 ---
 
 # ⚡ Curiosidades sobre mim
 
-💡 Gosto de transformar ideias em projetos reais  
-📚 Sempre estou estudando algo novo sobre tecnologia  
-🛠️ Gosto de desenvolver ferramentas que ajudam no dia a dia  
-🤖 Curto trabalhar com automação e análise de dados  
-💻 Meus repositórios são cheios de experimentos e projetos práticos
+💡 Gosto de transformar ideias em projetos reais
+📚 Estou sempre estudando novas tecnologias
+🤖 Tenho interesse em automação, IA e análise de dados
+🛠️ Desenvolvo ferramentas que ajudam no dia a dia
+🚀 Meus repositórios são cheios de experimentos e projetos práticos
 
 ---
 
-# 🌎 Conecte-se comigo
+## 🌎 Conecte-se comigo
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/andr%C3%A9-luis-santos-eng/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-André%20Luis%20Santos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-luis-santos-eng/)
 
----
-
-✨ *"Aprender, criar e evoluir — um código de cada vez."*
+✨ "Aprender, criar e evoluir — um código de cada vez."
