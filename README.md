@@ -90,13 +90,18 @@ Sistema com sensores para:
 
 # 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluis3&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreluis3&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis3&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis3&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreluis3&theme=tokyo-night)
 
 ---
+
+## 🔥 Streak de Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com?user=andreluis3&theme=tokyonight&hide_border=true)
+
 
 # ⚡ Curiosidades sobre mim
 
