@@ -90,9 +90,9 @@ Sistema com sensores para:
 
 # 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluis3\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis3\&layout=compact\&theme=tokyonight)
 
 ---
 
