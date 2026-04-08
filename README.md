@@ -1,37 +1,158 @@
 # 👋 Olá! Eu sou o André
 
-🎓 Sou estudante de Engenharia da Computação, apaixonado por tecnologia e pelo aprendizado constante.  
-💻 Adoro o universo do desenvolvimento e da ciência de dados — meus repositórios estão cheios de projetos CRUD e experiências nessas áreas.  
-🚀 Estou sempre explorando novas ferramentas, frameworks e ideias para me tornar um desenvolvedor cada vez melhor.
+🎓 Estudante de Engenharia da Computação  
+💻 Desenvolvedor em formação apaixonado por tecnologia e aprendizado contínuo  
+🐍 Focado principalmente no ecossistema Python, desenvolvimento de sistemas e análise de dados  
+
+🚀 Busco constantemente transformar ideias em aplicações úteis, automatizar processos e desenvolver soluções que realmente resolvam problemas.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas que utilizo
-- 🐍 **Python** — desenvolvo sistemas CRUD, aplicações desktop com **Tkinter** e projetos usando **Programação Orientada a Objetos (POO)**.  
-- ☕ **Java** — possuo conhecimentos básicos e aplico em projetos da faculdade.  
-- 🧮 **SQL e Gerenciamento de Dados** — trabalho com bancos de dados relacionais e manipulação de dados para análise e automação.  
-- 📊 **Estatística e Ciência de Dados** — gosto de extrair informações e aplicar pensamento orientado a dados.  
-- 🌐 **Django (Python)** — desenvolvo e gerencio **APIs** e aplicações web.  
-- 📱 **Flutter** — atualmente aprendendo desenvolvimento mobile.  
-- ⚙️ **C, Arduino e ESP32** — projetos da faculdade com sistemas embarcados e microcontroladores.
+# 🧠 Sobre mim
+
+Tenho grande interesse em **desenvolvimento de software, automação e análise de dados**.
+
+Durante minha jornada desenvolvendo projetos pessoais, acadêmicos e profissionais, já trabalhei com:
+
+- desenvolvimento de **sistemas CRUD completos**
+- construção de **bancos de dados relacionais**
+- desenvolvimento de **SGBDs e sistemas de gerenciamento de informações**
+- automação de processos utilizando **Python**
+- desenvolvimento de **APIs e aplicações web**
+- tratamento e análise de dados
+
+Gosto de construir projetos práticos que conectam **programação, lógica e solução de problemas reais**.
 
 ---
 
-### 💡 Meu foco
-Sou apaixonado por transformar ideias em aplicações úteis — de sistemas baseados em dados a interfaces intuitivas.  
-Acredito que aprender nunca tem fim e busco constantemente aprimorar meu código, minha lógica e meu modo de pensar como programador.
+# 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+
+- 🐍 Python
+- ☕ Java (POO)
+- C
+- SQL
+
+### 🌐 Desenvolvimento Web
+
+- HTML (básico)
+- CSS (básico)
+- Django
+- Django REST API
+
+### 🗄️ Banco de Dados
+
+- SQLite
+- Modelagem de banco de dados
+- Desenvolvimento de sistemas CRUD
+- Estruturação de sistemas tipo SGBD
+
+### 📊 Dados e Automação
+
+- Análise e tratamento de dados
+- Automação de processos
+- Manipulação de informações numéricas
+- Scripts para processamento de dados
+
+### 🌐 Web Scraping
+
+- BeautifulSoup
+- Parser HTML
+- Coleta e tratamento de dados da web
+
+### ⚙️ Sistemas e Ferramentas
+
+- Git e GitHub
+- Ambiente virtual Python (venv)
+- Estrutura de diretórios Linux
+- Máquinas Virtuais
+- Docker (básico)
 
 ---
 
-### 🌍 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-André%20Luis-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/andreluis3)
+# 🚀 Projetos e Experimentos
+
+Ao longo da minha jornada já desenvolvi diversos projetos práticos, incluindo:
+
+### 💰 Bot de monitoramento de Bitcoin
+Projeto que realiza coleta e análise de dados de mercado de criptomoedas para monitoramento de preço e comportamento do Bitcoin.
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub de André](https://github-readme-stats.vercel.app/api?username=andreluis3&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis3&layout=compact&theme=tokyonight)
+### 📊 Sistemas de gerenciamento de dados
+Desenvolvimento de aplicações completas com:
+
+- CRUD completo
+- integração com banco de dados
+- manipulação e organização de grandes volumes de informação
+- sistemas de consulta e registro de dados
 
 ---
 
-✨ *“Aprender, criar e evoluir — um código de cada vez.”*
+### 🤖 Automação de processos
+Criação de scripts para:
+
+- organização de dados
+- tratamento de informações
+- automação de tarefas repetitivas
+
+---
+
+# 🧪 Projetos de Engenharia (Faculdade)
+
+### 🧴 Dispenser automático de molho
+Sistema automatizado utilizando sensores e microcontroladores para liberar quantidades controladas de molho.
+
+---
+
+### 🔊 Detector de ruído anômalo
+Sistema para **detecção de padrões sonoros anormais** com objetivo de prever falhas em equipamentos e auxiliar em **manutenção preditiva**.
+
+---
+
+### 🌧️ Bueiro inteligente
+Sistema com sensores para:
+
+- monitoramento de volume de água
+- cálculo de nível de enchimento
+- sistema de alerta para moradores em caso de risco de alagamento.
+
+---
+
+# 📚 Atualmente estudando
+
+- Python avançado
+- Desenvolvimento Web com Django
+- Gerenciamento de Dados com SQL
+- Ciência de Dados
+- Desenvolvimento Mobile com Flutter
+
+---
+
+# 📊 Estatísticas GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# ⚡ Curiosidades sobre mim
+
+💡 Gosto de transformar ideias em projetos reais  
+📚 Sempre estou estudando algo novo sobre tecnologia  
+🛠️ Gosto de desenvolver ferramentas que ajudam no dia a dia  
+🤖 Curto trabalhar com automação e análise de dados  
+💻 Meus repositórios são cheios de experimentos e projetos práticos
+
+---
+
+# 🌎 Conecte-se comigo
+
+🔗 LinkedIn:  
+(coloque seu linkedin aqui)
+
+---
+
+✨ *"Aprender, criar e evoluir — um código de cada vez."*
