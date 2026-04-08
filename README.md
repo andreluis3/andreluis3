@@ -31,7 +31,6 @@ Gosto de construir projetos práticos que conectam **programação, lógica e so
 
 - 🐍 Python
 - ☕ Java (POO)
-- C
 - SQL
 
 ### 🌐 Desenvolvimento Web
@@ -67,8 +66,6 @@ Gosto de construir projetos práticos que conectam **programação, lógica e so
 - Ambiente virtual Python (venv)
 - Estrutura de diretórios Linux
 - Máquinas Virtuais
-- Docker (básico)
-
 ---
 
 # 🚀 Projetos e Experimentos
@@ -126,9 +123,8 @@ Sistema com sensores para:
 - Desenvolvimento Web com Django
 - Gerenciamento de Dados com SQL
 - Ciência de Dados
-- Desenvolvimento Mobile com Flutter
+- Inglês
 
----
 
 # 📊 Estatísticas GitHub
 
@@ -151,7 +147,7 @@ Sistema com sensores para:
 # 🌎 Conecte-se comigo
 
 🔗 LinkedIn:  
-(coloque seu linkedin aqui)
+https://www.linkedin.com/in/andr%C3%A9-luis-santos-eng/
 
 ---
 
